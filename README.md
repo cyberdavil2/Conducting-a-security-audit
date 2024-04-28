@@ -14,6 +14,7 @@ This project outlines a comprehensive cybersecurity audit conducted to assess th
 
 ---
 
+[Controls and compliance checklist portfolio. ex 1.docx](https://github.com/cyberdavil2/Conducting-a-security-audit/files/15144099/Controls.and.compliance.checklist.portfolio.ex.1.docx)
 
 
 
